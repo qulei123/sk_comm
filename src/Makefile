@@ -1,0 +1,19 @@
+
+obj-y += bitmap/
+obj-y += blend/
+obj-y += canvas/
+#obj-y += cJSON/
+obj-y += crypto/
+obj-y += event/
+#obj-y += freetype/
+obj-y += ipc/
+obj-y += queue/
+obj-y += time/
+obj-y += timer/
+obj-y += unicode/
+obj-y += utils/
+obj-y += mqttc/
+obj-y += thpool/
+obj-y += ack_async/
+obj-y += sntpd/
+obj-y += log/
